@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+	pritnf("Hello World.\n");
+	return 0;
+}
